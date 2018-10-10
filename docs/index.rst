@@ -6,6 +6,8 @@
 Welcome to dvb.datascience's documentation!
 ===========================================
 
+.. image: GIF_Sample_Project.gif
+
 .. mdinclude:: intro.md
 
 
