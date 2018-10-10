@@ -6,7 +6,7 @@
 Welcome to dvb.datascience's documentation!
 ===========================================
 
-.. mdinclude:: ../README.md
+.. mdinclude:: intro.md
 
 
 .. toctree::
