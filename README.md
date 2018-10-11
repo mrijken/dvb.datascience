@@ -8,6 +8,7 @@ At [de Volksbank](https://www.devolksbank.nl/), our data scientists used to writ
 Using this package you can easily create and reuse your pipeline code (consisting of often used data transformations and modeling steps) in experiments. 
 
 ![Sample Project Gif](docs/GIF_Sample_Project.gif)
+<img src="https://dvbdatascience.readthedocs.io/en/latest/_images/GIF_Sample_Project.gif" width="200px">
 
 This package has (among others) the following features:
 
